@@ -237,3 +237,6 @@ This repository serves as the official landing page for Five Nights at Maggie's 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Five Nights at Maggie's 2 today!**
+
+---
+**Last updated:** 2026-09-08 15:59:02 UTC
